@@ -173,6 +173,7 @@ def menu():
     os.system("clear");print(logo)
     print("\033[1;96m"+50*"-")
     print("%s [%s•%s] Nickname      : %s "%(p,b,p,nick));print("%s [%s•%s] ID facebook   : %s "%(p,b,p,idme));print("%s [%s•%s] Tanggal lahir : %s %s %s"%(p,b,p,day,month,year))
+    print("%s [%s•%s] Status User   : [%sPremium%s]
     print("\033[1;96m"+50*"-")
     print("\n%s [%s01%s] Crack fb dari list teman sendiri "%(p,b,p))
     print("%s [%s02%s] Crack fb dari list teman publik "%(p,b,p))
